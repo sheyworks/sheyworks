@@ -41,12 +41,6 @@ Currently serving as **President of the Student Consultative Assembly (MPM)** at
 
 > 🏗️ **Track Record:** Delivered 4 major company products and 2 client products · Developed 19 responsive landing pages · Handled full-cycle creation: design → dev → QA → deployment
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheyworks&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheyworks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
 
 ## 📫 Let's Connect
 
